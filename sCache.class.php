@@ -8,6 +8,7 @@
  * @mail selcuk@msn.com
  *
  * @date 14.04.2015
+ * @version 1.0
  * @license BSD http://www.opensource.org/licenses/bsd-license.php
  */
 
