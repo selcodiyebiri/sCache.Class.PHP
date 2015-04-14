@@ -1,6 +1,6 @@
 <?php
 /**
- * sCache Class
+ * sCache File Cache Class
  * Documentation: https://github.com/selcodiyebiri/sCache.Class.PHP
  *
  * @author Selçuk Çelik
