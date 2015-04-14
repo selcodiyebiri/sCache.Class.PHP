@@ -56,6 +56,8 @@ try {
     sCache::getCache($key);
 
  */
+ 
+// Örnek
 try {
 
     $string = sCache::getCache('test');
